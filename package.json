@@ -1,0 +1,8 @@
+{
+  "name": "fightbot",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "private": true
+}
