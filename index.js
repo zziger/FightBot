@@ -89,4 +89,4 @@ client.on('message', (message) => {
   }
 })
 
-client.login('NTMzMzE0OTgyNjY2ODI5ODM1.DxpPzQ.8NqoL-gTQJh3ukvI3gKyFNCT1SI').catch(console.error);
+client.login(process.env.token).catch(console.error);
